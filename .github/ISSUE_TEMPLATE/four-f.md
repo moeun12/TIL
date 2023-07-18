@@ -7,16 +7,16 @@ assignees: ''
 
 ---
 
-# **Fact**
->
+# **Fact** 
+
 
 ---
 # **Feeling**
->
+
 
 ---
 # **Finding**
->
+
 
 ---
 # **Future Action**
